@@ -82,5 +82,3 @@ public class Main {
         System.out.println("shift: " + shift);
     }
 }
-
-//zhenya clown sucks messi dick in the toilet
